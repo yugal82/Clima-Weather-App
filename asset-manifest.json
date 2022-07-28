@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Clima-Weather-App/static/css/main.f66d9c5e.css",
+    "main.js": "/Clima-Weather-App/static/js/main.a87b5b06.js",
+    "static/media/banner.png": "/Clima-Weather-App/static/media/banner.d3bf571febaab5200d7b.png",
+    "index.html": "/Clima-Weather-App/index.html",
+    "main.f66d9c5e.css.map": "/Clima-Weather-App/static/css/main.f66d9c5e.css.map",
+    "main.a87b5b06.js.map": "/Clima-Weather-App/static/js/main.a87b5b06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f66d9c5e.css",
+    "static/js/main.a87b5b06.js"
+  ]
+}
